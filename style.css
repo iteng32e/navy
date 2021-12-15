@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    font-family: IranSansWeb;
+}
+.log-btn, .reg-btn
+{
+    margin: auto 2px;
+}
